@@ -8,6 +8,7 @@ namespace Gay
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int Gay;
 
         public Game1()
         {
